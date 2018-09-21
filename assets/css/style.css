@@ -91,13 +91,13 @@ footer{
 
 /* portfolio images styling */
 .portfolio-gallary{
-    width: 320px;
+    width: 270px;
     height: 230px;
     /* display: block; */
 }
 /*  Text on Images */
 .span {
-    width: 320px;
+    width: 270px;
     height: 40px;
     font-size: 16px;
     /* z-index: 1; */
